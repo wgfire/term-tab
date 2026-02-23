@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="extension/icon128.png" width="72" alt="term-tab 图标">
+  <img src="docs/icon.svg" width="72" alt="term-tab 图标">
 </p>
 
 <h1 align="center">term-tab</h1>
